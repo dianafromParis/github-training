@@ -1,30 +1,59 @@
-* {
+body {
 	background-color: lightblue;
-	font-weight:bold;
-	font-size:20px;
+	text-align: center;
+	font-family: Delius;
+}
+
+.header {
+	background-color: #FFEB85;
+	width: 100%;
+	height: 130px;
+	padding-top: 75px;
+}
+
+span {
+	color:black;
+	font-size: 42px;
+	font-weight: bold;
+	text-shadow: 3px 3px 3px red;
 }
 
 h1, h2, h3,h4 {
 	width: 30%;
+	font-weight:bold;
+	padding: 2%;
+	margin:12px auto;
 }
 
 
 h1 {
 	color:white;
 	background-color: red;
+	font-size:28px;
 }
 
 h2 {
 	color:pink;
 	background-color: black;
+	font-size:24px;
 }
 
 h3 {
 	color:yellowgreen;
 	background-color:#006300 ;	
+	font-size:20px;
 }
 
 h4 {
 	color:black;
-	background-color:lightblue ;	
+	background-color:lightyellow ;	
+	font-size:14px;
 }
+
+img {
+	margin-top:  12px;
+	margin-bottom:  12px;
+	border: 1px solid black;
+	box-shadow: 1px 1px 1px white;
+}
+
