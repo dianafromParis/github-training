@@ -18,3 +18,5 @@ Car si  je rajoute des choses qui ne marchent pas du tout par la suite (ce qui m
 C'est **git** qui se chargera de me faire revenir pile où je veux.
 
 Et je push, seulement si nécessaire : c'est plus écolo :deciduous_tree:  :wink:
+
+[**résultat:**](https://dianatecher.github.io/github-training/)
