@@ -1,1 +1,1 @@
-alert("Alerte! Alerte! Tante Roberte arrive!");
+alert("Fausse alerte !");
