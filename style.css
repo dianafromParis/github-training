@@ -1,0 +1,25 @@
+* {
+	background-color: lightblue;
+	font-weight:bold;
+	font-size:20px;
+}
+
+h1, h2, h3 {
+	width: 30%;
+}
+
+
+h1 {
+	color:red;
+	background-color: lightyellow;
+}
+
+h2 {
+	color:pink;
+	background-color: black;
+}
+
+h3 {
+	color:yellowgreen;
+	background-color:#006300 ;	
+}
