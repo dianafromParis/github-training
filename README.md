@@ -6,7 +6,7 @@
 
 Au tout début, je croyais qu'il fallait faire un commit *uniquement* s'il fallait  pusher sur un repo.
 Mais c'était avant :smile:
-Aujourd'hui,  sur mon ordi, je peux switcher entre les différentes versions de mon taf grâce à l'historique des actions obtenu par la commande ```git reflog```
+Aujourd'hui,  sur mon ordi, je peux revenir à une version antérieure de mon taf grâce à l'historique des actions obtenu par la commande ```git reflog```
 
 Je n'ai qu'à choisir l'état vers lequel je souhaite revenir en tapant dans mon terminal :
   ```git reset --soft HEAD@{x}``` (modifs conservées ) ou ```git reset --hard HEAD@{y}``` (modifs NON conservées)
